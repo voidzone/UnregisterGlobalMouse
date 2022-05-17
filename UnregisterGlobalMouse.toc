@@ -5,6 +5,6 @@
 ## Version: @project-version@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
-## X-Website: https://github.com/voidzone/WoW-UnregisterGlobalMouse
+## X-Website: https://github.com/voidzone/UnregisterGlobalMouse
 
 core.lua
