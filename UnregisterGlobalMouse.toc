@@ -1,9 +1,10 @@
-## Interface: 80300
+## Interface: 90200
 ## Title: UnregisterGlobalMouse
 ## LoadOnDemand: 0
 ## Author: Elvenbane
 ## Version: @project-version@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
+## X-Website: https://github.com/voidzone/WoW-UnregisterGlobalMouse
 
 core.lua
