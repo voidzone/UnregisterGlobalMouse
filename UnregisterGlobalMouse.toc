@@ -1,4 +1,4 @@
-## Interface: 120000
+## Interface: 120000, 120100
 ## Title: UnregisterGlobalMouse
 ## LoadOnDemand: 0
 ## Author: Elvenbane
